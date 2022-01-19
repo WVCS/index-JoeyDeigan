@@ -1,3 +1,35 @@
-body {
+h3 {
+  color: #729EA1;
+  text-align: center;
+  img-align: center; 
+  font-size: 100px;
+  text-decoration: underline;
+  letter-spacing: 6px
+    word-spacing: -2px;
+  text-shadow: 2px 2px 5px red;
+}
 
+body {
+  background-color:
+    blue;
+}
+h6 {
+  color: RED;
+  text-align: center;
+  font-size: 50px;
+   text-shadow: 0 0 3px #ff0000;
+}
+img {
+  width: 300px;
+}
+
+img:hover {
+  border: dotted 10px red;
+ border-radius: 50%;
+  width: 400px;
+ 
+}
+h6:hover {
+  border: dotted 10px yellow;
+  color: green;
 }
