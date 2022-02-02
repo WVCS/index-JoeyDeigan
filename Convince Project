@@ -1,122 +1,29 @@
-<html>
-  <head>
-  </head>
-  
-  <body>
-    <nav>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body>
+  <center>
+     <nav>
       <li class="nav"><a href="https://wvcs.github.io/index-JoeyDeigan/"> ABOUT </a></li>
        <li class="nav"><a href="https://codepen.io/JoeyDeigan/full/jOGjygJ"> NOUN </a></li>
        <li class="nav"><a href="https://wvcs.github.io/index-JoeyDeigan/index.html"> HOME </a></li>
         
     </nav>
-    <br>
-    </br>
-   <center>
-    <h1> Cookie </h1>
-    <h3> Types of Cookies: </h3>
-    <ul>
-      <li> Chocolate Chip </li>
-      <li> Double Chocolate </li>
-      <li>  Penut Butter </li>
-       <li>  Macadamia Nut </li>
-       <li>  Gluten-Free </li>
-       <li>  Red Velvet </li>
-       <li>  White Chocolate </li>
-       <li>  Oatmeal and Raisin </li>
-       </ul>
-     <center>
-    <h2> Top Cookie Eating Countries </h2>
+   <br>
     
-    <div id="overlay" onclick="off()">
-      <div id="text">WHY WOULD YOU CLICK HERE WHEN I TOLD YOU NOT TO ────────▓▓▓▓▓▓▓────────────▒▒▒▒▒▒
-──────▓▓▒▒▒▒▒▒▒▓▓────────▒▒░░░░░░▒▒
-────▓▓▒▒▒▒▒▒▒▒▒▒▒▓▓────▒▒░░░░░░░░░▒▒▒
-───▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▓▓▒▒░░░░░░░░░░░░░░▒
-──▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒░░░░░░░░░░░░░░░░░▒
-──▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒░░░░░░░░░░░░░░░░░░▒
-─▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒░░░░░░░░░░░░░░░░░░░▒
-▓▓▒▒▒▒▒▒░░░░░░░░░░░▒▒░░▒▒▒▒▒▒▒▒▒▒▒░░░░░░▒
-▓▓▒▒▒▒▒▒▀▀▀▀▀███▄▄▒▒▒░░░▄▄▄██▀▀▀▀▀░░░░░░▒
-▓▓▒▒▒▒▒▒▒▄▀████▀███▄▒░▄████▀████▄░░░░░░░▒
-▓▓▒▒▒▒▒▒█──▀█████▀─▌▒░▐──▀█████▀─█░░░░░░▒
-▓▓▒▒▒▒▒▒▒▀▄▄▄▄▄▄▄▄▀▒▒░░▀▄▄▄▄▄▄▄▄▀░░░░░░░▒
-─▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒░░░░░░░░░░░░░░░░░░▒
-──▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒░░░░░░░░░░░░░░░░░▒
-───▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▀▀▀░░░░░░░░░░░░░░▒
-────▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒░░░░░░░░░░░░░░▒▒
-─────▓▓▒▒▒▒▒▒▒▒▒▒▄▄▄▄▄▄▄▄▄░░░░░░░░▒▒
-──────▓▓▒▒▒▒▒▒▒▄▀▀▀▀▀▀▀▀▀▀▀▄░░░░░▒▒
-───────▓▓▒▒▒▒▒▀▒▒▒▒▒▒░░░░░░░▀░░░▒▒
-────────▓▓▒▒▒▒▒▒▒▒▒▒▒░░░░░░░░░░▒▒
-──────────▓▓▒▒▒▒▒▒▒▒▒░░░░░░░░▒▒
-───────────▓▓▒▒▒▒▒▒▒▒░░░░░░░▒▒
-─────────────▓▓▒▒▒▒▒▒░░░░░▒▒
-───────────────▓▓▒▒▒▒░░░░▒▒
-────────────────▓▓▒▒▒░░░▒▒
-──────────────────▓▓▒░▒▒
-───────────────────▓▒░▒
-────────────────────▓▒
-
-</div>
-    </div>
-       
-       
-  <div>
-    <table>
+    <h1> THE MOON LANDING WAS FAKED </h1>
+    <h2> By: Joey Deigan </h2>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/c43_hfbFr3g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <br>
+    <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf95dThCYJfxXnUfHalP0rmBh7WhhZ_lmdSeQ_EiNAMdJyXaA/viewform?embedded=true" width="640" height="1014" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+  </center>
   
- <tr>
-   <th> Country </th>
-   <th> Kg Per Capita </th>
-      </tr>
-      <tr>
-        <td> 1. United States </td>
-        <td> 97.1 kg </td>
-      </tr>
-      <tr>
-        <td> 2. Australia </td>
-        <td> 94.8 kg </td>
-      </tr>
-      <tr>
-        <td> 3. Argentina </td>
-        <td> 86.1 kg </td>
-      </tr>
-      <tr>
-        <td> 4. Uruguay </td>
-        <td> 81.0 kg </td>
-      </tr>
-      <tr>
-        <td> 5. Israel </td>
-        <td> 80.3 kg </td>
-      </tr>
-      <tr>
-        <td> 6. Brazil </td>
-        <td> 77.2 kg </td>
-      </tr>
-      <tr>
-        <td> 7. Chile </td>
-        <td> 71.6 kg </td>
-      </tr>
-      <tr>
-        <td> 8. Canada </td>
-        <td> 70.0 kg </td>
-      </tr>
-      <tr>
-        <td> 9. European Union </td>
-        <td> 69.2 kg </td>
-      </tr>
-      <tr>
-        <td> 10. New Zealand </td>
-        <td> 67.5 kg </td>
-      </tr>
-      </div>
-                
-    </table>
-       <img src="https://longislandweekly.com/wp-content/uploads/2019/11/Cookie-Monster-cookie-crumbs.jpg"
-            </img>
-       <img src="http://1000awesomethings.com/wp-content/uploads/2009/07/milk-soaked-cookies-await.jpg" </img>
-       <button onclick="on()">DON'T CLICK HERE</button>
-     </center>
-  </body>
+</body>
 </html>
 
 <style>
@@ -158,5 +65,4 @@ a {
 body {
    background-image: url('https://cdn.pixabay.com/photo/2017/08/30/01/05/milky-way-2695569__480.jpg');
 }
-
 </style>
