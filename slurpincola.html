@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Slurpin' Cola</title>
+</head>
+  <center>
+<body>
+  <nav> <li class="nav"><a href="https://wvcs.github.io/index-JoeyDeigan/index.html"> HOME </a></li> </nav>
+  <div class="wrapper">
+  <div class="box a">SLURPIN' COLA  <br> <img src="https://raw.githubusercontent.com/WVCS/index-JoeyDeigan/main/Menu%20Colas%20(1).png"></div>
+  
+  <div class="box b">CONTACT US <br> <br><br> <img src="https://www.hamiltoncountyhealth.org/wp-content/uploads/Twitter-Logo.png" style="width:300px;height:200px;" class="center"> <h3> @slurpin_cola1 </h3> <br> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/640px-Instagram_icon.png" style="width:200px;height:200px;" <h6> @slurpin_cola </h6>  <br> <br> <img src="https://pnggrid.com/wp-content/uploads/2021/07/Facebook-Logo-Square-768x768.png" style="width:200px;height:200px;"> <h3> @slurpin_cola1 </h3></div>
+  <div class="box c">MENU <br> <img src="https://raw.githubusercontent.com/WVCS/index-JoeyDeigan/main/Menu%20Fruits%20(2).png"style="width:500px;height:500px;"> <br></div>
+  <div class="box d">ABOUT US <br> <img src="https://raw.githubusercontent.com/WVCS/index-JoeyDeigan/main/Food%20logo%20(1).png" style="width:350px;height:350px;"> <h3> Our Staff At Slurpin' Cola Focuses On The Satisfaction Of The Customer And Quality of Our Product </div>
+</div>
+</body>
+  </center>
+</html>
+<style>
+body {
+  margin: 10%;
+}
+
+.wrapper {
+		display: grid;
+    grid-gap: 10px;
+		grid-template-columns: [col1-start] 50%  [col2-start] 50%  [col3-start] 50% [col3-end];
+		grid-template-rows: [row1-start] auto [row2-start] auto [row2-end];
+		background-color: #fff;
+		color: #444;
+  height: 90vh;
+	}
+
+	.box {
+		background-color: #444;
+		color: #f8961e;
+		border-radius: 5px;
+		padding: 20px;
+		font-size: 150%;
+    height: 600px;
+
+	}
+
+	.a {
+		grid-column: col1-start / col3-start;
+		grid-row: row1-start ;
+    font-size: 100px;
+ font-family: "Copperplate", fantasy;
+	}
+	.b {
+		grid-column: col3-start ;
+		grid-row: row1-start / row2-end;
+     font-size: 30px;
+ font-family: "Copperplate", fantasy;
+      height: 80%;
+    width: 30%;
+	}
+	.c {
+		grid-column: col1-start;
+		grid-row: row2-start ;
+     font-size: 60px;
+ font-family: "Copperplate", fantasy;
+	}
+	.d {
+		grid-column: col2-start ;
+		grid-row: row2-start ;
+     font-size: 40px;
+ font-family: "Copperplate", fantasy;
+  
+	}
+.center {
+  margin-left: -10%;
+  margin-right: auto;
+  width: 50%;
+}
+nav {
+  list-style-type: none;
+  position: fixed;
+  background-color: black;
+  width: 100%;
+  left: 0;
+  top: 0;
+}
+.nav {
+  display: inline;
+  float: right;
+  padding: 20px;
+  margin: 5px;
+  background-color: orange
+}
+body {
+ background-image: url("https://wallpaperaccess.com/full/4805019.jpg");
+ background-color: #cccccc;
+}
+a {
+  text-decoration: none;
+}
+.nav:hover {
+  display: block;
+  background-color: grey;
+}
+</style>
