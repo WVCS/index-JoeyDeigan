@@ -1,4 +1,123 @@
 <html>
-  <a href="../index.html"> TEST TO HOME </a>
-  PLACEHOLDER FOR EVENT SITE
-</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Neon Nights</title>
+</head>
+ 
+<body>
+<nav> <li class="nav"><a href="https://wvcs.github.io/index-JoeyDeigan/index.html"> HOME </a></li> </nav>
+  <div class="wrapper">
+  <div class="box a"> <h1> NEON NIGHTS </h1> <img src="https://www.westend61.de/images/0001585728pw/bright-blue-neon-rays-illuminating-modern-dark-concert-hall-during-live-musical-performance-ADSF27223.jpg" width="300%" height="200%" ></div>
+    <div class="box b"><h1> MERCH <br> <img src="https://www.curioos.com/content/files/Products/899176/5439996/ProductZoom/63639916097"> <br> <img src="https://cdn.shopify.com/s/files/1/2676/5370/products/a10642c-Royal_4c5d93ca-19a2-4b84-aa10-4f55e8c41a04_1200x.jpg?v=1609630314"> <br> <img src="https://ae01.alicdn.com/kf/Hf23c678bb3ed4ece9a98a1c1a620166cC.jpg"> <br> <img src="https://m.media-amazon.com/images/I/71nvAj8BMUL._AC_UL1200_.jpg"> </h1> <h2> Locations: </h2> <h2> San Diego </h2><br> <h2> Los Angeles </h2><br> <h2> New York City </h2></div>
+  <div class="box c"> <img src="https://raw.githubusercontent.com/WVCS/index-JoeyDeigan/main/event/concert%20png%20(1).png"></div>
+    <div class="box d"> <h1> BUY TICKETS HERE </h1><a href="https://www.tacobell.com/" target="_blank">TICKETS!</a> </div>
+</div>
+  </html>
+  
+  <style>
+   body {
+  margin: 2%;
+  background-image: url("https://media.istockphoto.com/photos/abstract-neon-lights-background-picture-id1191384225?k=20&m=1191384225&s=170667a&w=0&h=vyn5FD1U_IIvXf2_tWGjlr5cjx6pxaaHtLfU918VG-s=");
+  
+}
+nav {
+  list-style-type: none;
+  position: fixed;
+  background-color: black;
+  width: 100%;
+  left: 0;
+  top: 0;
+}
+.nav {
+  display: inline;
+  float: right;
+  padding: 20px;
+  margin: 5px;
+  background-color: white;
+}
+.wrapper {
+display: grid;
+    grid-gap: .5%;
+grid-template-columns: 29% 39% 29%;
+    grid-auto-columns: 70%;
+background-color: #fff;
+color: #444;
+  width: 99vw;
+}
+ 
+
+.box {
+background-color: blue;
+color: #fff;
+border-radius: 5%;
+padding: 20%;
+font-size: 150%;
+  }
+a:link, a:visited {
+  background-color: #f44336;
+  color: white;
+  padding: 15px 25px;
+  text-align: center;
+  text-decoration: underline;
+  display: inline-block;
+}
+a:hover, a:active {
+  background-color: #780000;
+}
+
+@media only screen and (max-width: 1024px) {
+  .container {
+    flex-direction: row | row-reverse | column | column-reverse;
+  }
+}
+  .a {
+grid-column: 1 / 3;
+grid-row: 1;
+}
+.b {
+grid-column: 3 ;
+grid-row: 1 / 3;
+}
+.c {
+grid-column: 1 ;
+grid-row: 2 ;
+}
+.d {
+grid-column: 2;
+grid-row: 2;
+}
+img {
+  max-height: 100%;
+  max-width: 100%;
+}
+h1 {
+  font-size: 350%;
+}
+@media only screen and (max-width: 768px) {
+  .container {
+    flex-direction: row | row-reverse | column | column-reverse;
+  }
+  h1 {
+    font-size: 100%;
+  }
+  body {
+     background-image: url("https://i.ytimg.com/vi/5pamFCgS0Hk/maxresdefault.jpg");
+  }
+  .box {
+background-color: grey;
+  }
+  
+  h2 {
+    font-size: 90%;
+  }
+  
+ 
+
+
+
+ 
+  </style>
